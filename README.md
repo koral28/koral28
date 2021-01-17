@@ -1,8 +1,8 @@
 ### Hi there, I'm Koral! 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/koral28)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FMy Portfolio)](https://koral28.github.io/)
 
-## Full Stack Developer | MERN Stack Developer | Programmer | Bachelor Of Computer Science
+## Full Stack Developer | Programmer | Bachelor Of Computer Science
 
 - 🔭 I’m currently working on: React, Redux & Firebase app
 - 🌱 I’m currently learning: Redux, Firebase, Materialize CSS
