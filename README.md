@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=My_Portfolio&style=for-the-badge&url=https%3A%2F%2FMy_Portfolio)](https://koral28.github.io/)
 
-## Full Stack Developer | Programmer | Bachelor Of Computer Science
+## Web Developer | Full Stack Developer | Computer Science
 
-- 🔭 I’m currently working on: React, Redux & Firebase app
-- 🌱 I’m currently learning: Redux, Firebase, Materialize CSS
+- 🔭 I’m currently working on: "Projects Planner" app using React, Redux & Firebase
+- 🌱 I’m currently learning: Redux, Firebase
 - 🥅 2021 Goals: More coding, learning new skills and contribute to Open Source projects
-- ⚡ Fun fact: Born in 1990 but my favorite music is 70's, especially Rock and Roll!
+- ⚡ Fun fact: Born in 1990 but my favorite music is the 70's, especially Rock and Roll!
 - 💬 Ask me about: JS, React Hooks, Node.js, MongoDB
 
 ### Connect with me:
@@ -34,4 +34,9 @@
 <br />
 <br />
 
-Show some ❤️ by starring some of the repositories!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koral28&layout=compact)
+
+<br />
+<br />
+
+<p style="text-align: center;">Show some ❤️ by starring some of the repositories!</p>
