@@ -1,6 +1,6 @@
 ### Hi there, I'm Koral! 👋
 
-[![Website](https://img.shields.io/website?label=My_Portfolio&style=for-the-badge&url=https%3A%2F%2FMy_Portfolio)](https://koral28.github.io/)
+[![Website](https://img.shields.io/static/v1?label=My-Portfolio&message=visit&color=ff69b4)](https://koral28.github.io/)
 
 ## Web Developer | Full Stack Developer | Computer Science
 
