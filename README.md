@@ -1,6 +1,6 @@
 ### Hi there, I'm Koral! 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FMy Portfolio)](https://koral28.github.io/)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FMy_Portfolio)](https://koral28.github.io/)
 
 ## Full Stack Developer | Programmer | Bachelor Of Computer Science
 
