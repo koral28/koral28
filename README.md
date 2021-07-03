@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: Redux, Firebase
 - 🥅 2021 Goals: More coding, learning new skills and contribute to Open Source projects
 - ⚡ Fun fact: Born in 1990 but my favorite music is the 70's, especially Rock and Roll!
-- 💬 Ask me about: JS, React Hooks, Node.js, MongoDB
+- 💬 Ask me about: JS, React Hooks, Angular12, Node.js, MongoDB
 
 ### Connect with me:
 
