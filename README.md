@@ -5,10 +5,10 @@
 ## Web Developer | Full Stack Developer | Computer Science
 
 - 🔭 I’m currently working as a Full Stack Developer 
-- 🌱 I’m currently learning: Microservices with Nodejs & React, Docker, and Kubernetes 
-- 🥅 2023 Goals: More coding, and learning about new tools!
+- 🌱 I’m currently learning: Docker, Microservices, bigData, tools like: AWS, Kafka, Redis and more!
+- 🥅 2024 Goals: More coding, and learning about big data and system design.
 - ⚡ Fun fact: Born in 1990 but my favorite music is the 70's, especially Rock and Roll!
-- 💬 Ask me about: JS, React, .NET C#, SQL 
+- 💬 Ask me about: .NET C#, React, Java Spring Boot 
 
 ### Connect with me:
 
